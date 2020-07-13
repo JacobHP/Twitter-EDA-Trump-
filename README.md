@@ -1,6 +1,8 @@
 # Twitter-EDA-Trump-
 Simple EDA of Donald Trump's tweets using pandas and plotly (beginner project).
 
+**SCRIPTS TO BE UPLOADED**
+
 This was a project to get me started with pandas and working with text data. I also used this as an opportunity to learn some plotly. 
 I originally did this project with a dataset from Kaggle from a fixed timepoint. However for completeness, I created a Twitter scraping script here to scrape an up-to-date dataset. 
 
